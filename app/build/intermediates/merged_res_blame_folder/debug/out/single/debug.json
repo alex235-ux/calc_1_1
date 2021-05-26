@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_two.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\two.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_equally.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\equally.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_div.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\div.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_back.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\back.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_six.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\six.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_seven.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\seven.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_multi.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\multi.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_minus.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\minus.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_zero.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\zero.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_three.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\three.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_nine.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\nine.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_one.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\one.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\font_btn_ac.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\font\\btn_ac.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_eight.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\eight.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_plus.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\plus.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_four.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\four.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_ac.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\ac.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_comma.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\comma.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\font_passion_one.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\font\\passion_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_open.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\open.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_close.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\close.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\raw_five.mp3.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\raw\\five.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\alex-ux\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

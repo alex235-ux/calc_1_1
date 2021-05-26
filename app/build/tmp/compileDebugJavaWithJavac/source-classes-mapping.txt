@@ -1,0 +1,2 @@
+com/alexux/alexux/a3000/BuildConfig.java
+ com.alexux.alexux.a3000.BuildConfig
